@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-router-tutorial-2023",
-    "slug": "expo-router-tutorial-2023",
+    "name": "navigation-template",
+    "slug": "navigation-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
