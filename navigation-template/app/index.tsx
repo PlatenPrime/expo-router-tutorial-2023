@@ -26,6 +26,11 @@ const index = () => {
 						<Link href='/uisand' >UI Sandbox</Link>
 					</View>
 
+
+					<View>
+						<Link href='/checkbox' >Checkbox</Link>
+					</View>
+
 				</Text>
 			</View>
 		</SafeAreaProvider>
